@@ -9,7 +9,7 @@
 <a href="https://t.me/CoDexBoTsupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/Code_x_roBoT" alt=" Amelia "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AmeliaRobot-blue" /> </a>
+* Bot Link:  <a href="http://t.me/Code_x_roBoT" alt=" Codex "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-CodexRobot-blue" /> </a>
 * Support Channel: <a  href="https://t.me/CoDexBoTupdate" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-ᴄᴏᴅᴇx ʙᴏᴛ sᴜᴘᴘᴏʀᴛ%20Update%20Channel-9cf" /> </a>
 
 
