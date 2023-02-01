@@ -33,17 +33,17 @@ RUN apt update && apt upgrade -y && \
     libcurl4-openssl-dev \
     libxml2-dev \
     libxslt1-dev \
-    python3.8.6-pip \
-    python3.8.6-requests \
-    python3.8.6-sqlalchemy \
-    python3.8.6-tz \
-    python3.8.6-aiohttp \
+    python3.11.1-pip \
+    python3.11.1-requests \
+    python3.11.1-sqlalchemy \
+    python3.11.1-tz \
+    python3.11.1-aiohttp \
     openssl \
     pv \
     jq \
     wget \
-    python3.8.6 \
-    python3.8.6-dev \
+    python3.11.1\
+    python3.11.1-dev \
     libreadline-dev \
     libyaml-dev \
     gcc \
@@ -77,4 +77,4 @@ ENV PATH="/home/bot/bin:$PATH"
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
-CMD ["python3.8.6","-m","CodexRobot"]
+CMD ["python3.11.1","-m","CodexRobot"]
